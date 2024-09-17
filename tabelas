@@ -1,0 +1,84 @@
+<table>
+
+</table>
+
+<table>
+    <thead>
+
+    </thead>
+</table>
+table>thead>tr>th+th+th
+    
+<table>
+    <thead>
+        <tr>
+
+        </tr>
+    </thead>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Sobrenome</th>
+            <th>Idade</th>
+        </tr>
+    </thead>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Sobrenome</th>
+            <th>Idade</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Sobrenome</th>
+            <th>Idade</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+
+        </tr>
+        <tr>
+
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Sobrenome</th>
+            <th>Idade</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <td>Douglas</td>
+            <td>Toledo</td>
+            <td>29</td>
+        </tr>
+        <tr>
+            <td>Lorem</td>
+            <td>Ipsum</td>
+            <td>35</td>
+        </tr>
+    </tbody>
+</table>
